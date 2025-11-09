@@ -1,5 +1,5 @@
 
-# 🚀 _Day 2. Minimum Distance Between Three Equal Elements I_ 🧠
+# 🚀 Minimum Distance Between Three Equal Elements I_ 🧠
 
 The problem can be found at the following link: [LeetCode Problem](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/)
 
